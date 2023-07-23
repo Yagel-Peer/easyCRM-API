@@ -1,0 +1,50 @@
+[
+  {
+      "marketing": {
+          "source": "TikTok",
+          "ad": "Organic"
+      },
+      "_id": "64b9c24a39d34948632c0708",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "0522222022",
+      "products": [],
+      "status": "no reply",
+      "createdAt": "2023-07-20T23:24:58.232Z",
+      "updatedAt": "2023-07-20T23:28:28.394Z",
+      "__v": 0,
+      "id": "64b9c24a39d34948632c0708"
+  },
+  {
+      "marketing": {
+          "source": "Facebook",
+          "ad": "New Ad"
+      },
+      "_id": "64b9c24a39d34948632c0707",
+      "name": "Test 02",
+      "email": "test2@test.com",
+      "phone": "0506667070",
+      "products": [],
+      "status": "new",
+      "createdAt": "2023-07-20T23:24:58.232Z",
+      "updatedAt": "2023-07-20T23:24:58.232Z",
+      "__v": 0,
+      "id": "64b9c24a39d34948632c0707"
+  },
+  {
+      "marketing": {
+          "source": "Google",
+          "ad": "SEO"
+      },
+      "_id": "64b9c24a39d34948632c0706",
+      "name": "Test Lead",
+      "email": "test@test.com",
+      "phone": "0505550505",
+      "products": [],
+      "status": "new",
+      "createdAt": "2023-07-20T23:24:58.231Z",
+      "updatedAt": "2023-07-20T23:24:58.231Z",
+      "__v": 0,
+      "id": "64b9c24a39d34948632c0706"
+  }
+]
